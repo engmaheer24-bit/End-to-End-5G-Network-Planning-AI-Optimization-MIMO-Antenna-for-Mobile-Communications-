@@ -18,4 +18,3 @@ Navigate to the /backend directory and run:
 ```bash
 pip install -r requirements.txt
 python main.py
-ContactDeveloped by mohamed maher | www.linkedin.com/in/mohamed-maher-0a83b0372
